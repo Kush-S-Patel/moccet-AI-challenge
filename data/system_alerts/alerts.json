@@ -1,14 +1,14 @@
 [
   {
-    "id": "33bb2f2e-a025-4275-9982-9ec9c81312f1",
+    "id": "e367dbec-9398-4cd1-b944-62b7a419efb4",
     "type": "low_credit",
-    "days_left": 4,
-    "timestamp": "2026-04-06 23:05:40.689302"
+    "days_left": 2,
+    "timestamp": "2026-04-06 02:19:04.603512"
   },
   {
-    "id": "f2a4aff3-de4e-4c22-afe1-9e0edd0bdb84",
+    "id": "993f3615-bf18-4a0b-b683-603135001343",
     "type": "feature_release",
     "feature": "Smart Summaries",
-    "timestamp": "2026-04-06 19:05:40.689302"
+    "timestamp": "2026-04-06 10:19:04.603512"
   }
 ]

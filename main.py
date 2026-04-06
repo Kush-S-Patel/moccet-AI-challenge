@@ -51,8 +51,18 @@ if __name__ == "__main__":
     notifs = generate_all_notifications()
 
     optimized = optimize_notifications(notifs)
+    base_dir = os.path.dirname(__file__)
 
-    output_path = os.path.join(os.path.dirname(__file__), "optimized_notifications.json")
+    output_path = os.path.join(base_dir, "optimized_notifications.json")
+
+    react_output_dir = os.path.join(base_dir, "react_mockup", "src")
+    react_output_path = os.path.join(react_output_dir, "optimized_notifications.json")
+
+    os.makedirs(react_output_dir, exist_ok=True)
+
+    for path in [output_path, react_output_path]:
+        with open(path, "w") as f:
+            json.dump(optimized, f, indent=2, default=str)
 
     with open(output_path, "w") as f:
         json.dump(optimized, f, indent=2, default=str)
