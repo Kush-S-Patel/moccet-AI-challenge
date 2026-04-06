@@ -11,6 +11,7 @@ Follow these steps to generate and view mock notifications:
 ### 1. Clone the Repository
 
 git clone https://github.com/Kush-S-Patel/moccet-AI-challenge.git
+
 cd /moccet-AI-challenge/
 
 ---
