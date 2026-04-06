@@ -24,3 +24,37 @@
 #    • Include the quiet hours gap and the batching behavior visually
 ###
 
+import json
+import os
+from data.data_generator import generate_all
+from notification_generation_engine.engine import generate_all_notifications
+from notification_generation_engine.delivery_optimizer import optimize_notifications
+
+#Scenario configuration helper - toggle different user states and test notification logic
+def configure_scenario():
+    scenario = {
+        "bad_sleep": False,
+        "low_activity_midday": False,
+        "high_email_load": True,
+        "urgent_email_burst": True,
+        "meeting_heavy_day": False,
+        "email_burst_pattern": True
+    }
+    return scenario
+
+
+
+if __name__ == "__main__":
+
+    scenario = configure_scenario()
+    generate_all(scenario) #randomize our data for the next 48 hours based on our scenarios
+    notifs = generate_all_notifications()
+
+    optimized = optimize_notifications(notifs)
+
+    output_path = os.path.join(os.path.dirname(__file__), "optimized_notifications.json")
+
+    with open(output_path, "w") as f:
+        json.dump(optimized, f, indent=2, default=str)
+
+    print(f"Final sent notifications: {len(optimized)}")

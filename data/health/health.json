@@ -1,0 +1,210 @@
+[
+  {
+    "date": "2026-04-05",
+    "sleep_hours": 6,
+    "avg_sleep": 6,
+    "total_steps": 20037,
+    "hourly_steps": [
+      {
+        "hour": 0,
+        "steps": 66
+      },
+      {
+        "hour": 1,
+        "steps": 59
+      },
+      {
+        "hour": 2,
+        "steps": 92
+      },
+      {
+        "hour": 3,
+        "steps": 58
+      },
+      {
+        "hour": 4,
+        "steps": 93
+      },
+      {
+        "hour": 5,
+        "steps": 53
+      },
+      {
+        "hour": 6,
+        "steps": 41
+      },
+      {
+        "hour": 7,
+        "steps": 1239
+      },
+      {
+        "hour": 8,
+        "steps": 766
+      },
+      {
+        "hour": 9,
+        "steps": 364
+      },
+      {
+        "hour": 10,
+        "steps": 1907
+      },
+      {
+        "hour": 11,
+        "steps": 1761
+      },
+      {
+        "hour": 12,
+        "steps": 302
+      },
+      {
+        "hour": 13,
+        "steps": 1543
+      },
+      {
+        "hour": 14,
+        "steps": 1088
+      },
+      {
+        "hour": 15,
+        "steps": 540
+      },
+      {
+        "hour": 16,
+        "steps": 1094
+      },
+      {
+        "hour": 17,
+        "steps": 1841
+      },
+      {
+        "hour": 18,
+        "steps": 2291
+      },
+      {
+        "hour": 19,
+        "steps": 1751
+      },
+      {
+        "hour": 20,
+        "steps": 2558
+      },
+      {
+        "hour": 21,
+        "steps": 261
+      },
+      {
+        "hour": 22,
+        "steps": 134
+      },
+      {
+        "hour": 23,
+        "steps": 135
+      }
+    ]
+  },
+  {
+    "date": "2026-04-06",
+    "sleep_hours": 7,
+    "avg_sleep": 6,
+    "total_steps": 20098,
+    "hourly_steps": [
+      {
+        "hour": 0,
+        "steps": 6
+      },
+      {
+        "hour": 1,
+        "steps": 49
+      },
+      {
+        "hour": 2,
+        "steps": 93
+      },
+      {
+        "hour": 3,
+        "steps": 56
+      },
+      {
+        "hour": 4,
+        "steps": 33
+      },
+      {
+        "hour": 5,
+        "steps": 82
+      },
+      {
+        "hour": 6,
+        "steps": 44
+      },
+      {
+        "hour": 7,
+        "steps": 241
+      },
+      {
+        "hour": 8,
+        "steps": 615
+      },
+      {
+        "hour": 9,
+        "steps": 550
+      },
+      {
+        "hour": 10,
+        "steps": 1352
+      },
+      {
+        "hour": 11,
+        "steps": 1927
+      },
+      {
+        "hour": 12,
+        "steps": 974
+      },
+      {
+        "hour": 13,
+        "steps": 1918
+      },
+      {
+        "hour": 14,
+        "steps": 1704
+      },
+      {
+        "hour": 15,
+        "steps": 1801
+      },
+      {
+        "hour": 16,
+        "steps": 1117
+      },
+      {
+        "hour": 17,
+        "steps": 1549
+      },
+      {
+        "hour": 18,
+        "steps": 2380
+      },
+      {
+        "hour": 19,
+        "steps": 1426
+      },
+      {
+        "hour": 20,
+        "steps": 1159
+      },
+      {
+        "hour": 21,
+        "steps": 459
+      },
+      {
+        "hour": 22,
+        "steps": 500
+      },
+      {
+        "hour": 23,
+        "steps": 63
+      }
+    ]
+  }
+]

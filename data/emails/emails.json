@@ -1,0 +1,242 @@
+[
+  {
+    "id": "387e6293-9365-42b9-ace3-177227667ae8",
+    "sender": "sarah@company.com",
+    "important": true,
+    "subject": "URGENT: Server Downtime",
+    "timestamp": "2026-04-07 14:06:40.689302",
+    "read": false
+  },
+  {
+    "id": "f1d2a591-4525-422b-a5e1-a50e95ca0e26",
+    "sender": "sarah@company.com",
+    "important": true,
+    "subject": "URGENT: Server Downtime",
+    "timestamp": "2026-04-07 14:10:40.689302",
+    "read": true
+  },
+  {
+    "id": "928e53ea-e5ff-4191-8aad-cbd66f2eec72",
+    "sender": "sarah@company.com",
+    "important": false,
+    "subject": "URGENT: Server Downtime",
+    "timestamp": "2026-04-07 14:14:40.689302",
+    "read": true
+  },
+  {
+    "id": "87eb1b6f-dc13-49b4-9284-08776841f38a",
+    "sender": "boss@company.com",
+    "important": true,
+    "subject": "URGENT: Server Downtime",
+    "timestamp": "2026-04-06 14:13:40.689302",
+    "read": true
+  },
+  {
+    "id": "7e0528b7-8ea5-480a-8988-e9afe5fe1c7b",
+    "sender": "team@company.com",
+    "important": false,
+    "subject": "URGENT: Server Downtime",
+    "timestamp": "2026-04-06 09:09:40.689302",
+    "read": true
+  },
+  {
+    "id": "2aaf3932-b4b2-49fb-b445-49f5f6e8b648",
+    "sender": "team@company.com",
+    "important": false,
+    "subject": "Project Update",
+    "timestamp": "2026-04-06 05:12:40.689302",
+    "read": false
+  },
+  {
+    "id": "3b7fb731-b2bb-4574-b3df-0dae01e2a514",
+    "sender": "boss@company.com",
+    "important": false,
+    "subject": "Quick Sync",
+    "timestamp": "2026-04-07 14:11:40.689302",
+    "read": false
+  },
+  {
+    "id": "b68b318a-7300-4ea3-aec6-367b0d4cb02f",
+    "sender": "sarah@company.com",
+    "important": false,
+    "subject": "Quick Sync",
+    "timestamp": "2026-04-06 14:13:40.689302",
+    "read": false
+  },
+  {
+    "id": "e0ab552f-f6bf-417d-8f06-70332f0de9e9",
+    "sender": "sarah@company.com",
+    "important": true,
+    "subject": "Project Update",
+    "timestamp": "2026-04-06 05:05:40.689302",
+    "read": true
+  },
+  {
+    "id": "0e676a95-f17b-46e3-a242-33927a37f955",
+    "sender": "team@company.com",
+    "important": false,
+    "subject": "Action Required",
+    "timestamp": "2026-04-07 05:13:40.689302",
+    "read": true
+  },
+  {
+    "id": "9459bf51-73bd-4611-8cde-a9833435ec29",
+    "sender": "team@company.com",
+    "important": false,
+    "subject": "Action Required",
+    "timestamp": "2026-04-07 09:13:40.689302",
+    "read": true
+  },
+  {
+    "id": "b8d35d8b-a48a-4953-b1be-30eb810160a2",
+    "sender": "team@company.com",
+    "important": true,
+    "subject": "Project Update",
+    "timestamp": "2026-04-06 14:11:40.689302",
+    "read": true
+  },
+  {
+    "id": "ce687145-0a25-4356-b06c-141392ce238a",
+    "sender": "sarah@company.com",
+    "important": true,
+    "subject": "Action Required",
+    "timestamp": "2026-04-06 14:07:40.689302",
+    "read": true
+  },
+  {
+    "id": "b76244c1-4beb-4072-a39c-bbe79708757e",
+    "sender": "team@company.com",
+    "important": true,
+    "subject": "Q3 Report Update",
+    "timestamp": "2026-04-07 05:05:40.689302",
+    "read": true
+  },
+  {
+    "id": "bc1c3170-9c31-47f3-9244-556d8c00fd6b",
+    "sender": "sarah@company.com",
+    "important": true,
+    "subject": "Q3 Report Update",
+    "timestamp": "2026-04-07 05:15:40.689302",
+    "read": false
+  },
+  {
+    "id": "4c461984-a881-4135-95be-c9debdbb3e29",
+    "sender": "boss@company.com",
+    "important": false,
+    "subject": "Action Required",
+    "timestamp": "2026-04-07 05:09:40.689302",
+    "read": false
+  },
+  {
+    "id": "60e3998c-d824-402e-b05a-2a7362092d61",
+    "sender": "team@company.com",
+    "important": true,
+    "subject": "Quick Sync",
+    "timestamp": "2026-04-07 14:15:40.689302",
+    "read": true
+  },
+  {
+    "id": "bc3ee55d-9d14-45d5-8dbc-d3f6cdcb132a",
+    "sender": "team@company.com",
+    "important": false,
+    "subject": "Project Update",
+    "timestamp": "2026-04-06 05:15:40.689302",
+    "read": false
+  },
+  {
+    "id": "687316b3-5e57-4836-9ecc-8b897026d8cd",
+    "sender": "sarah@company.com",
+    "important": true,
+    "subject": "Quick Sync",
+    "timestamp": "2026-04-07 14:08:40.689302",
+    "read": false
+  },
+  {
+    "id": "bd8b6c04-8d50-4cd4-92ad-fe16602c7bbe",
+    "sender": "team@company.com",
+    "important": true,
+    "subject": "Quick Sync",
+    "timestamp": "2026-04-06 05:05:40.689302",
+    "read": true
+  },
+  {
+    "id": "22121bf0-10fd-443f-86c6-79db5a93c346",
+    "sender": "sarah@company.com",
+    "important": true,
+    "subject": "Project Update",
+    "timestamp": "2026-04-07 14:10:40.689302",
+    "read": true
+  },
+  {
+    "id": "8fb3bb0e-8390-43b7-83fc-9e457f838e69",
+    "sender": "sarah@company.com",
+    "important": true,
+    "subject": "Action Required",
+    "timestamp": "2026-04-07 05:05:40.689302",
+    "read": false
+  },
+  {
+    "id": "9842954d-6b60-482e-a524-81a82f2d11dc",
+    "sender": "boss@company.com",
+    "important": false,
+    "subject": "Quick Sync",
+    "timestamp": "2026-04-06 09:13:40.689302",
+    "read": false
+  },
+  {
+    "id": "e4ff7d25-1d93-499c-ad5a-dd20d18ca21c",
+    "sender": "team@company.com",
+    "important": true,
+    "subject": "Quick Sync",
+    "timestamp": "2026-04-06 09:07:40.689302",
+    "read": false
+  },
+  {
+    "id": "06d00357-a048-4dfe-88a5-db7a84761672",
+    "sender": "boss@company.com",
+    "important": false,
+    "subject": "Project Update",
+    "timestamp": "2026-04-06 09:07:40.689302",
+    "read": false
+  },
+  {
+    "id": "f16cf127-f421-4209-ad25-0767b3d6bb99",
+    "sender": "sarah@company.com",
+    "important": false,
+    "subject": "Q3 Report Update",
+    "timestamp": "2026-04-07 05:14:40.689302",
+    "read": true
+  },
+  {
+    "id": "20470344-26c9-4fcf-a20e-2b1b5cbdf76b",
+    "sender": "team@company.com",
+    "important": false,
+    "subject": "Project Update",
+    "timestamp": "2026-04-06 09:13:40.689302",
+    "read": true
+  },
+  {
+    "id": "24605460-211f-4260-8917-1ceefb27692d",
+    "sender": "team@company.com",
+    "important": true,
+    "subject": "Quick Sync",
+    "timestamp": "2026-04-07 14:13:40.689302",
+    "read": true
+  },
+  {
+    "id": "24c814a5-9046-44c0-a935-7ac0f98f3f85",
+    "sender": "team@company.com",
+    "important": false,
+    "subject": "Action Required",
+    "timestamp": "2026-04-07 09:11:40.689302",
+    "read": false
+  },
+  {
+    "id": "4eae7656-47d0-4e22-8e25-0bcb61db9331",
+    "sender": "sarah@company.com",
+    "important": true,
+    "subject": "Action Required",
+    "timestamp": "2026-04-06 05:12:40.689302",
+    "read": true
+  }
+]

@@ -1,0 +1,332 @@
+[
+  {
+    "id": "f76a16e5-068c-4966-8a63-c7b386c42198",
+    "timestamp": "2026-04-06 08:53:11.078603",
+    "source": "calendar",
+    "type": "meeting_soon",
+    "priority": 0.9,
+    "urgency": 1.0,
+    "relevance": 0.9,
+    "score": 0.95,
+    "content": {
+      "title": "Client Call in 15 min",
+      "body": "Discuss feedback from last meeting [Calendar]",
+      "deep_link": "app://calendar"
+    }
+  },
+  {
+    "id": "95e67d98-0036-4ee0-bb88-4951ee81e809",
+    "timestamp": "2026-04-06 12:44:11.078603",
+    "source": "calendar",
+    "type": "meeting_soon",
+    "priority": 0.9,
+    "urgency": 1.0,
+    "relevance": 0.9,
+    "score": 0.95,
+    "content": {
+      "title": "Client Call in 15 min",
+      "body": "Prep for launch [Calendar]",
+      "deep_link": "app://calendar"
+    }
+  },
+  {
+    "id": "a8bf49de-ae02-4913-aa2e-c74faab5a6f9",
+    "timestamp": "2026-04-07 10:13:11.078603",
+    "source": "system",
+    "type": "low_credit",
+    "priority": 1.0,
+    "urgency": 0.9,
+    "relevance": 0.9,
+    "score": 0.92,
+    "content": {
+      "title": "Credits running low",
+      "body": "1 days remaining [System]",
+      "deep_link": "app://system"
+    }
+  },
+  {
+    "id": "c60ddb34-3613-49c2-8671-d2f88aabf18e",
+    "timestamp": "2026-04-06 17:13:11.078603",
+    "source": "email",
+    "type": "email",
+    "priority": 0.9,
+    "urgency": 0.9,
+    "relevance": 0.8,
+    "score": 0.87,
+    "content": {
+      "title": "New email",
+      "body": "team@company.com: URGENT: Server Downtime [Gmail]",
+      "deep_link": "app://email"
+    }
+  },
+  {
+    "id": "5e79a081-b154-44ac-81f8-948e96570792",
+    "timestamp": "2026-04-07 05:13:11.078603",
+    "source": "email",
+    "type": "email",
+    "priority": 0.9,
+    "urgency": 0.9,
+    "relevance": 0.8,
+    "score": 0.87,
+    "content": {
+      "title": "New email",
+      "body": "boss@company.com: URGENT: Server Downtime [Gmail]",
+      "deep_link": "app://email"
+    }
+  },
+  {
+    "id": "8b068330-15a3-4624-9ef8-3288cd887c94",
+    "timestamp": "2026-04-05 20:13:11.078603",
+    "source": "email",
+    "type": "email",
+    "priority": 0.8,
+    "urgency": 0.7,
+    "relevance": 0.8,
+    "score": 0.75,
+    "content": {
+      "title": "New email",
+      "body": "team@company.com: New Feature Announcement [Gmail]",
+      "deep_link": "app://email"
+    }
+  },
+  {
+    "id": "bd5c2996-dbb8-4119-ac1e-dfb11de02523",
+    "timestamp": "2026-04-06 08:13:11.078603",
+    "source": "email",
+    "type": "email",
+    "priority": 0.8,
+    "urgency": 0.7,
+    "relevance": 0.8,
+    "score": 0.75,
+    "content": {
+      "title": "New email",
+      "body": "boss@company.com: New Feature Announcement [Gmail]",
+      "deep_link": "app://email"
+    }
+  },
+  {
+    "id": "5f340a21-0150-4284-ba51-1389bdbc9e9c",
+    "timestamp": "2026-04-06 09:13:11.078603",
+    "source": "email",
+    "type": "email",
+    "priority": 0.8,
+    "urgency": 0.7,
+    "relevance": 0.8,
+    "score": 0.75,
+    "content": {
+      "title": "New email",
+      "body": "sofianyoussef@company.com: New Feature Announcement [Gmail]",
+      "deep_link": "app://email"
+    }
+  },
+  {
+    "id": "121b0505-786c-4922-ab4c-be13b8722a72",
+    "timestamp": "2026-04-06 10:13:11.078603",
+    "source": "email",
+    "type": "email",
+    "priority": 0.8,
+    "urgency": 0.7,
+    "relevance": 0.8,
+    "score": 0.75,
+    "content": {
+      "title": "New email",
+      "body": "sarah@company.com: Team Outing Plans [Gmail]",
+      "deep_link": "app://email"
+    }
+  },
+  {
+    "id": "ff9c7a6f-82b7-486a-b2e1-faf599902034",
+    "timestamp": "2026-04-06 14:13:11.078603",
+    "source": "email",
+    "type": "email",
+    "priority": 0.8,
+    "urgency": 0.7,
+    "relevance": 0.8,
+    "score": 0.75,
+    "content": {
+      "title": "New email",
+      "body": "sofianyoussef@company.com: Q3 Report Update [Gmail]",
+      "deep_link": "app://email"
+    }
+  },
+  {
+    "id": "94128111-6392-4e77-8b95-5a661cc273b6",
+    "timestamp": "2026-04-06 14:13:11.078603",
+    "source": "email",
+    "type": "email",
+    "priority": 0.8,
+    "urgency": 0.7,
+    "relevance": 0.8,
+    "score": 0.75,
+    "content": {
+      "title": "New email",
+      "body": "sofianyoussef@company.com: Team Outing Plans [Gmail]",
+      "deep_link": "app://email"
+    }
+  },
+  {
+    "id": "530921f4-4ec5-4cee-b11c-45b424e0deb0",
+    "timestamp": "2026-04-06 17:13:11.078603",
+    "source": "email",
+    "type": "email",
+    "priority": 0.8,
+    "urgency": 0.7,
+    "relevance": 0.8,
+    "score": 0.75,
+    "content": {
+      "title": "New email",
+      "body": "sarah@company.com: Action Required [Gmail]",
+      "deep_link": "app://email"
+    }
+  },
+  {
+    "id": "a04ae0ed-53ee-49bd-aacb-4df09d28e948",
+    "timestamp": "2026-04-06 21:13:11.078603",
+    "source": "email",
+    "type": "email",
+    "priority": 0.8,
+    "urgency": 0.7,
+    "relevance": 0.8,
+    "score": 0.75,
+    "content": {
+      "title": "New email",
+      "body": "sofianyoussef@company.com: Quick Sync [Gmail]",
+      "deep_link": "app://email"
+    }
+  },
+  {
+    "id": "ab5e05cb-a010-418d-9c22-3653d9401f6c",
+    "timestamp": "2026-04-07 08:13:11.078603",
+    "source": "email",
+    "type": "email",
+    "priority": 0.8,
+    "urgency": 0.7,
+    "relevance": 0.8,
+    "score": 0.75,
+    "content": {
+      "title": "New email",
+      "body": "boss@company.com: Client Feedback [Gmail]",
+      "deep_link": "app://email"
+    }
+  },
+  {
+    "id": "5b6bed93-be01-4b5f-9230-8e033750348a",
+    "timestamp": "2026-04-07 12:13:11.078603",
+    "source": "email",
+    "type": "email",
+    "priority": 0.8,
+    "urgency": 0.7,
+    "relevance": 0.8,
+    "score": 0.75,
+    "content": {
+      "title": "New email",
+      "body": "boss@company.com: Project Update [Gmail]",
+      "deep_link": "app://email"
+    }
+  },
+  {
+    "id": "c9e790e6-ad12-4dfa-936b-537f9554c4cf",
+    "timestamp": "2026-04-07 18:13:11.078603",
+    "source": "email",
+    "type": "email",
+    "priority": 0.8,
+    "urgency": 0.7,
+    "relevance": 0.8,
+    "score": 0.75,
+    "content": {
+      "title": "New email",
+      "body": "team@company.com: Action Required [Gmail]",
+      "deep_link": "app://email"
+    }
+  },
+  {
+    "id": "93507e63-dbbc-451e-b760-13826862a3eb",
+    "timestamp": "2026-04-06 08:08:11.078603",
+    "source": "calendar",
+    "type": "meeting_prep",
+    "priority": 0.85,
+    "urgency": 0.6,
+    "relevance": 0.9,
+    "score": 0.74,
+    "content": {
+      "title": "Client Call in 1 hour",
+      "body": "Discuss feedback from last meeting [Calendar]",
+      "deep_link": "app://calendar"
+    }
+  },
+  {
+    "id": "f53ab8d7-f41f-411d-8095-b3c3cba898d2",
+    "timestamp": "2026-04-06 11:59:11.078603",
+    "source": "calendar",
+    "type": "meeting_prep",
+    "priority": 0.85,
+    "urgency": 0.6,
+    "relevance": 0.9,
+    "score": 0.74,
+    "content": {
+      "title": "Client Call in 1 hour",
+      "body": "Prep for launch [Calendar]",
+      "deep_link": "app://calendar"
+    }
+  },
+  {
+    "id": "b6f456a1-e1fc-468c-b8c6-028c0922a8b6",
+    "timestamp": "2026-04-05 22:13:11.078603",
+    "source": "email",
+    "type": "email",
+    "priority": 0.5,
+    "urgency": 0.4,
+    "relevance": 0.5,
+    "score": 0.45,
+    "content": {
+      "title": "New email",
+      "body": "newsletter@updates.com: Budget Approval Needed [Gmail]",
+      "deep_link": "app://email"
+    }
+  },
+  {
+    "id": "140f998b-ee73-4da1-a037-bbabde113447",
+    "timestamp": "2026-04-06 00:13:11.078603",
+    "source": "email",
+    "type": "email",
+    "priority": 0.5,
+    "urgency": 0.4,
+    "relevance": 0.5,
+    "score": 0.45,
+    "content": {
+      "title": "New email",
+      "body": "noreply@service.com: Meeting Follow-up [Gmail]",
+      "deep_link": "app://email"
+    }
+  },
+  {
+    "id": "011473d6-1516-4aac-a5ad-0d5976c7cd20",
+    "timestamp": "2026-04-07 11:13:11.078603",
+    "source": "email",
+    "type": "email",
+    "priority": 0.5,
+    "urgency": 0.4,
+    "relevance": 0.5,
+    "score": 0.45,
+    "content": {
+      "title": "New email",
+      "body": "noreply@service.com: Project Update [Gmail]",
+      "deep_link": "app://email"
+    }
+  },
+  {
+    "id": "40cdbf5f-00f3-4300-89c4-d1feb346308c",
+    "timestamp": "2026-04-06 13:13:11.078603",
+    "source": "system",
+    "type": "feature_release",
+    "priority": 0.4,
+    "urgency": 0.3,
+    "relevance": 0.5,
+    "score": 0.38,
+    "content": {
+      "title": "New feature available",
+      "body": "Try Smart Summaries now [System]",
+      "deep_link": "app://system"
+    }
+  }
+]

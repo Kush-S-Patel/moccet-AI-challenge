@@ -1,0 +1,14 @@
+[
+  {
+    "id": "33bb2f2e-a025-4275-9982-9ec9c81312f1",
+    "type": "low_credit",
+    "days_left": 4,
+    "timestamp": "2026-04-06 23:05:40.689302"
+  },
+  {
+    "id": "f2a4aff3-de4e-4c22-afe1-9e0edd0bdb84",
+    "type": "feature_release",
+    "feature": "Smart Summaries",
+    "timestamp": "2026-04-06 19:05:40.689302"
+  }
+]
