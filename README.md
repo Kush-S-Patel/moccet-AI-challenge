@@ -1,4 +1,4 @@
-# Mock Notification Generator + React Preview
+# Moccet AI Notification Generator + React Preview
 
 This project generates simulated notification data based on configurable scenarios and visualizes it in a React mockup UI.
 
@@ -10,7 +10,7 @@ Follow these steps to generate and view mock notifications:
 
 ### 1. Clone the Repository
 
-git clone 
+git clone https://github.com/Kush-S-Patel/moccet-AI-challenge.git
 cd /moccet-AI-challenge/
 
 ---
